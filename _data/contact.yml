@@ -1,0 +1,14 @@
+location:
+  address: Shop 1/114 Flinders St, Melbourne VIC 3000
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.8812450432283!2d144.9708715!3d-37.816250499999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad643fb6737a959%3A0xf2326f441edffe32!2sCoffee%20House%20Project!5e0!3m2!1sen!2sau!4v1666869138497!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/pages/category/Coffee-shop/Coffee-House-Project-106730307405191/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:(+xx) xxxxxxxxx

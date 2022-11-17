@@ -1,0 +1,6 @@
+name: Coffee House Project
+description:
+color_profile: dark  # options: light, dark, pink
+font_profile: futuristic  # options: futuristic, rustic, cursive, formal
+accent_color: "#45689b"
+permanent_nav_background: false
